@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\Resul Taha Çalgın\Desktop\Server\Server\Server.cpp(10,1): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Server.vcxproj -> C:\Users\Resul Taha Çalgın\Desktop\Server\x64\Debug\Server.exe

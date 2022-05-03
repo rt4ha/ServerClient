@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\Resul Taha Çalgın\Desktop\Client\Client\Client.cpp(26,1): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+C:\Users\Resul Taha Çalgın\Desktop\Client\Client\Client.cpp(64,7): warning C4101: 'buf': yerel değişken başvurusu kaldırıldı
+  Client.vcxproj -> C:\Users\Resul Taha Çalgın\Desktop\Client\x64\Debug\Client.exe
